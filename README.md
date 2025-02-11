@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Bindal</h1>
 <h3 align="center">Software Developer</h3>
-<p>Highly motivated and dedicated final-year B.Tech student at IIIT Surat with a passion for software development and problem-solving. Enthusiastic about building scalable web applications and optimizing algorithms for real-world challenges. Skilled in MERN stack, C++, and data structures, with hands-on experience in frontend development and real-time collaboration tools. Eager to contribute innovative solutions and grow in a dynamic tech environment.</p>
+<p align="center">Highly motivated and dedicated final-year B.Tech student at IIIT Surat with a passion for software development and problem-solving. Enthusiastic about building scalable web applications and optimizing algorithms for real-world challenges. Skilled in MERN stack, C++, and data structures, with hands-on experience in frontend development and real-time collaboration tools. Eager to contribute innovative solutions and grow in a dynamic tech environment.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bindalharsh&label=Profile%20views&color=0e75b6&style=flat" alt="bindalharsh" /> </p>
 
