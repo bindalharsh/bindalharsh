@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bindalharsh" alt="bindalharsh" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring boot**
-
 - 📫 How to reach me **bindalharsh025@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1FcFyc1TUCpKw9rDDfL9k281j1mOsipn6?usp=drive_link](https://drive.google.com/drive/folders/1FcFyc1TUCpKw9rDDfL9k281j1mOsipn6?usp=drive_link)
